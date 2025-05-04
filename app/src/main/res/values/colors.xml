@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_sky">#07348F</color>
+    <color name="light_dark_sky">#2A47E7</color>
+    <color name="light_sky">#057FE0</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="grass">#14CC1B</color>
+    <color name="darkGray">#353537</color>
+    <color name="dark_grass">#026306</color>
+    <color name="light_dark_grass">#05A10C</color>
+    <color name="light_grass">#00FF0A</color>
+    <color name="red">#FF0000</color>
+    <color name="lemon">#FFEB3B</color>
+    <color name="transparencyGray">#D8393939</color>
+</resources>
